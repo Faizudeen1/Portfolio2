@@ -25,6 +25,10 @@
   }
 }
 
+.about{
+  text-align: justify;
+}
+
 .fw-semi-bold {
   font-weight: 600;
 }
